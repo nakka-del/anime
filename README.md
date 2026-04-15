@@ -2,6 +2,8 @@
 
 AnimeVerse is a full-stack anime web application built with the MERN stack. It combines anime discovery, search, watchlist management, JWT authentication, and a polished responsive UI inspired by platforms like MyAnimeList and anime streaming dashboards.
 
+![image alt](https://github.com/nakka-del/anime/blob/7dec7f7e8588985d3ef44c097c5d7c57f4c7b1e2/Screenshot%202026-04-16%20013432.png)
+
 ## Features
 
 - JWT authentication with bcrypt password hashing
