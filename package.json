@@ -1,0 +1,25 @@
+{
+  "name": "animeverse",
+  "version": "1.0.0",
+  "description": "Full-stack anime discovery platform built with the MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "client": "npm run dev --prefix client",
+    "server": "npm run dev --prefix server",
+    "build": "npm run build --prefix client",
+    "start": "npm run start --prefix server"
+  },
+  "keywords": [
+    "mern",
+    "anime",
+    "react",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
